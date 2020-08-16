@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">👋 Hello! I'm LovesAsuna.</h3>
 
-<!--
-**LovesAsuna/LovesAsuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Github Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/mokeyjay"><img src="https://github-readme-stats.vercel.app/api?username=LovesAsuna&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=cobalt" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovesAsuna&layout=compact&count_private=true&theme=cobalt" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Blog Posts
+
+Only the latest **2** articles are displayed here.
+
+* [Mirai-Bot](https://github.com/LovesAsuna/Mirai-Bot)
+* [Lock](https://github.com/LovesAsuna/Lock)
+
