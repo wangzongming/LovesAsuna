@@ -2,7 +2,7 @@
 
 ### Github Stats
 
-<a href="https://github.com/mokeyjay"><img src="https://github-readme-stats.vercel.app/api?username=LovesAsuna&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=cobalt" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovesAsuna&layout=compact&count_private=true&theme=cobalt" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+<a href="https://github.com/LovesAsuna"><img src="https://github-readme-stats.vercel.app/api?username=LovesAsuna&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=gruvbox" style="width: 58%; max-width: 58%; min-width: 58%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LovesAsuna&layout=compact&count_private=true&theme=gruvbox" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
 
 ### Blog Posts
 
