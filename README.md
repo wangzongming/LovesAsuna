@@ -1,4 +1,8 @@
-<h3 align="center">👋 Hello! I'm LovesAsuna.</h3>
+👋 Hello! Here is LovesAsuna.
+
+🔭 I am now Working on Mirait-Bot, A bot for QQ based on Mirai framework!
+
+🌱 Now learning  Java & Kotlin  | Algorithm
 
 ### Github Stats
 
@@ -10,4 +14,3 @@ Only the latest **2** articles are displayed here.
 
 * [Mirai-Bot](https://github.com/LovesAsuna/Mirai-Bot)
 * [Lock](https://github.com/LovesAsuna/Lock)
-
